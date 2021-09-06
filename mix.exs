@@ -1,4 +1,4 @@
-defmodule NervesSystemRpi4.MixProject do
+defmodule RobotControlSystemRpi4.MixProject do
   use Mix.Project
 
   @github_organization "cgudrian"
